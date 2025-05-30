@@ -1,10 +1,10 @@
-# 🌐 Samba Server Setup on Linux
+# Samba Server Setup on Linux
 
 This project documents the setup and configuration of a **Samba server** on a Linux laptop to enable file sharing across local devices, including a **Samsung Android phone**.
 
 ---
 
-## 🛠️ Project Overview
+## Project Overview
 
 - **Platform**: Linux (tested on Ubuntu/Debian)
 - **Service Used**: Samba
@@ -13,7 +13,7 @@ This project documents the setup and configuration of a **Samba server** on a Li
 
 ---
 
-## 🔧 Installation Steps
+## Installation Steps
 
 ### 1. Install Samba
 
@@ -59,7 +59,7 @@ On your Android phone:
 ---
 
 
-## 🖼️ Screenshots
+## Screenshots
 
 | Description            | Screenshot                            |
 |------------------------|----------------------------------------|
@@ -68,7 +68,7 @@ On your Android phone:
 
 ---
 
-## 📋 Notes
+## Notes
 
 - Make sure the `smbd` service is running:
   ```bash
@@ -80,13 +80,13 @@ On your Android phone:
 ---
 
 
-## 📜 License
+## License
 
 This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Author
+## Author
 
 Maintained by **[Sakthivel A](https://github.com/Sakthi0408)**  
 📧 asakthivel0408@gmail.com
